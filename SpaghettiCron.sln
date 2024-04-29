@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaghettiCron.Lib", "SpaghettiCron.Lib\SpaghettiCron.Lib.csproj", "{4944BF3C-2DB4-4CC6-8979-E4D2CAECFFA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaghettiCron.Test", "SpaghettiCron.Test\SpaghettiCron.Test.csproj", "{7D727A19-DA82-4460-8BE1-30541E279540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4944BF3C-2DB4-4CC6-8979-E4D2CAECFFA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4944BF3C-2DB4-4CC6-8979-E4D2CAECFFA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4944BF3C-2DB4-4CC6-8979-E4D2CAECFFA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4944BF3C-2DB4-4CC6-8979-E4D2CAECFFA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D727A19-DA82-4460-8BE1-30541E279540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D727A19-DA82-4460-8BE1-30541E279540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D727A19-DA82-4460-8BE1-30541E279540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D727A19-DA82-4460-8BE1-30541E279540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57258BE7-7ADD-4FA4-AD38-E5A4DAFB8C6F}
+	EndGlobalSection
+EndGlobal
