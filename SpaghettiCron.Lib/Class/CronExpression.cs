@@ -29,6 +29,16 @@ namespace SpaghettiCron.Lib.Class
             return $"{minute.ToString()} {hour.ToString()} {dayOfMonth.ToString()} {month.ToString()} {dayOfWeek.ToString()}";
         }
 
+        public TimeSpan ToTimeSpan()
+        {
+            return new TimeSpan(); //TODO
+        }
+
+        public  string ToReadableString()
+        {
+            return $"";  //TODO
+        }
+
     }
 
 
